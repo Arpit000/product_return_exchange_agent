@@ -1,4 +1,4 @@
-# ShopEasy Returns Agent
+# Returns & Exchange Agent
 
 A small LLM-powered customer support app for handling product returns and size exchanges in a ShopEasy-style ecommerce flow.
 
